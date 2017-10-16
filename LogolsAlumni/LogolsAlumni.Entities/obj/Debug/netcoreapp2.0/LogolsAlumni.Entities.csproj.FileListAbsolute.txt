@@ -1,0 +1,9 @@
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\bin\Debug\netcoreapp2.0\LogolsAlumni.Entities.deps.json
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\bin\Debug\netcoreapp2.0\LogolsAlumni.Entities.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\bin\Debug\netcoreapp2.0\LogolsAlumni.Entities.pdb
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\obj\Debug\netcoreapp2.0\LogolsAlumni.Entities.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\obj\Debug\netcoreapp2.0\LogolsAlumni.Entities.AssemblyInfoInputs.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\obj\Debug\netcoreapp2.0\LogolsAlumni.Entities.AssemblyInfo.cs
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\obj\Debug\netcoreapp2.0\LogolsAlumni.Entities.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\obj\Debug\netcoreapp2.0\LogolsAlumni.Entities.pdb
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Entities\obj\Debug\netcoreapp2.0\LogolsAlumni.Entities.csprojResolveAssemblyReference.cache

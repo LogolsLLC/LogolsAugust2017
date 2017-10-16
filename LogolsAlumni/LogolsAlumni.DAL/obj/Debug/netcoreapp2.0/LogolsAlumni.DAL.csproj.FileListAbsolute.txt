@@ -1,0 +1,11 @@
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\obj\Debug\netcoreapp2.0\LogolsAlumni.DAL.csprojResolveAssemblyReference.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\obj\Debug\netcoreapp2.0\LogolsAlumni.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\obj\Debug\netcoreapp2.0\LogolsAlumni.DAL.AssemblyInfoInputs.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\obj\Debug\netcoreapp2.0\LogolsAlumni.DAL.AssemblyInfo.cs
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\bin\Debug\netcoreapp2.0\LogolsAlumni.DAL.deps.json
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\bin\Debug\netcoreapp2.0\LogolsAlumni.DAL.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\bin\Debug\netcoreapp2.0\LogolsAlumni.Entities.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\bin\Debug\netcoreapp2.0\LogolsAlumni.Entities.pdb
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\bin\Debug\netcoreapp2.0\LogolsAlumni.DAL.pdb
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\obj\Debug\netcoreapp2.0\LogolsAlumni.DAL.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.DAL\obj\Debug\netcoreapp2.0\LogolsAlumni.DAL.pdb

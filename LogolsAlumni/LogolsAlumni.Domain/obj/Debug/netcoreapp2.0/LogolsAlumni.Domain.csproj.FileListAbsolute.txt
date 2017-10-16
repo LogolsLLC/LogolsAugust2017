@@ -1,0 +1,13 @@
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\obj\Debug\netcoreapp2.0\LogolsAlumni.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\obj\Debug\netcoreapp2.0\LogolsAlumni.Domain.AssemblyInfoInputs.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\obj\Debug\netcoreapp2.0\LogolsAlumni.Domain.AssemblyInfo.cs
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\bin\Debug\netcoreapp2.0\LogolsAlumni.Domain.deps.json
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\bin\Debug\netcoreapp2.0\LogolsAlumni.Domain.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\bin\Debug\netcoreapp2.0\LogolsAlumni.Domain.pdb
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\bin\Debug\netcoreapp2.0\LogolsAlumni.DAL.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\bin\Debug\netcoreapp2.0\LogolsAlumni.Entities.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\bin\Debug\netcoreapp2.0\LogolsAlumni.DAL.pdb
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\bin\Debug\netcoreapp2.0\LogolsAlumni.Entities.pdb
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\obj\Debug\netcoreapp2.0\LogolsAlumni.Domain.csprojResolveAssemblyReference.cache
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\obj\Debug\netcoreapp2.0\LogolsAlumni.Domain.dll
+C:\Users\JMack_000\source\repos\LogolsAlumni\LogolsAlumni.Domain\obj\Debug\netcoreapp2.0\LogolsAlumni.Domain.pdb
